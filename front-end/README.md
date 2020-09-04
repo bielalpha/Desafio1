@@ -25,6 +25,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Estrutura Geral
 
+O desafio de front-end não chegou a ser concluido,
+mas a ideia era criar um pagina em que se pudesse navegar
+de maneira simples entre as paginas, mas
+ao mesmo tempo interage com as funções em geral do CRUD,
+sendo assim possivel fazer operações e visualizar os dados
+já sendo cadastrados.
+
 O projeto é contituido de Assets,components,router,store,vues e main.
 
 A estrutura foi adotada dessa maneira pois existe um padrão de projeto e como
